@@ -7,7 +7,7 @@ My expertise spans **neuroimmunology, preclinical pharmacology and drug delivery
 ### 🚀 Projects
 | Project | What it does |
 |---|---|
-| [**RNA-seq Shiny App**](https://github.com/lizetafo/rnaseq-shiny-app) | No-code R Shiny app for bulk RNA-seq: DESeq2 differential expression, gene annotation, volcano plots and heatmaps. Results validated against DESeq2. |
+| [**RNA-seq Shiny App**](https://github.com/lizetafo/RNAseq-web) · [▶️ Try it online](https://01a1c6c1-cbf8-a124-ddcd-1f24a83e1a02.share.connect.posit.cloud/) | No-code R Shiny web app for bulk RNA-seq: DESeq2 differential expression, gene annotation, QC plots (PCA, sample distances), volcano and MA plots, heatmaps and a gene explorer. Results validated against DESeq2. |
 | [**Glia IF Quantification**](https://github.com/lizetafo/Glia-IF-Quantification) | R Shiny apps for GFAP and IBA1 immunofluorescence: spectral unmixing of multispectral `.im3` images, marker area, skeleton morphology and soma analysis, validated on images with known answers |
 | [**Portfolio website**](https://elizabethetafo.com) | My research portfolio ([source](https://github.com/lizetafo/elizabeth-etafo-portfolio)) |
 
